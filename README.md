@@ -8,8 +8,26 @@ Stylesheet files can be found in the `build` folder.
 
 ## How to use it :hammer:
 
+1. Include the stylesheet on your document's `<head>`:
+
+```
+<head>
+ <link rel="stylesheet" href="colors.min.css">
+</head>
+```
+
+
+
 1. Call a class for background color, example: `.abbey-bg`
 2. Call the same class but for text color, example: `.abbey`
+
+Example:
+
+```
+<div class="acadia-bg">
+ <span class="abbey"> This is a colored text in a colored containerd</span>
+</div>
+```
 
 Hope you find this useful :+1:. 
 
