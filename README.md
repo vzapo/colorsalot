@@ -4,8 +4,12 @@
 :information_source: Both files provide a way to add background color or text color class to your html and make it look wonderfull just like it deserves.
 Background css classes are composed of the color name and -bg attribute. Text classes are simpler, only the color name. Examples below:
 
-1. Call a background class example: `.abbey-bg`.
-2. Call the same class but for text: `.abbey`.
+Stylesheet files can be found in the `build` folder.
+
+## How to use it :hammer:
+
+1. Call a class for background color, example: `.abbey-bg`
+2. Call the same class but for text color, example: `.abbey`
 
 Hope you find this useful :+1:. 
 
