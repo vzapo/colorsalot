@@ -1,0 +1,28 @@
+{
+  "name": "zapo",
+  "version": "1.0.0",
+  "description": ":information_source: Both files provide a way to add background color or text color class to your html and make it look wonderfull just like it deserves. Background css classes are composed of the color name and -bg attribute. Text classes are simpler, only the color name. Examples below:",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "jsdom": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzapo/colorsalot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzapo/colorsalot/issues"
+  },
+  "homepage": "https://github.com/vzapo/colorsalot#readme"
+}
