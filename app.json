@@ -1,0 +1,17 @@
+{
+  "name": "colorsalot",
+  "description": "zapp",
+  "scripts": {
+  },
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
