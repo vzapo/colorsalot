@@ -5,11 +5,14 @@
   "main": "gulpfile.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "gulp-sass": "^4.0.1",
-    "gulp-rename": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.10.0",
-    "jsdom": "^12.0.0"
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "jsdom": "^12.0.0",
+    "morgan": "^1.9.1"
   },
   "devDependencies": {},
   "scripts": {
